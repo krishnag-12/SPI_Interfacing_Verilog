@@ -1,0 +1,72 @@
+/*
+
+Vivado v2014.2 (64-bit)
+SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+Process ID: 11940
+
+Current time: 	7/4/25 8:06:05 PM
+Time zone: 	India Standard Time (Asia/Calcutta)
+
+OS: Windows 8
+Version: 6.2
+Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+
+Java version: 	1.7.0_40 64-bit
+Java home: 	C:/Xilinx/Vivado/2014.2/tps/win64/jre
+
+User name: 	gkris
+User directory: E:/Academics/3rd Sem/HDL/SPI_Protocol/SPI_Protocol
+User country: 	IN
+User language: 	en
+User locale: 	en_IN
+
+Gui allocated memory:	122 mb
+Gui max memory:		3,066 mb
+Engine allocated memory: 495 mb
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: START_PROGRESS_DIALOG
+// co:P (cg:JFrame):  Opening project 'E:\Academics\3rd Sem\HDL\SPI_Protocol\SPI_Protocol\SPI_Protocol.xpr' : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 58 mb (+57946kb) [00:00:02]
+// [Engine Memory]: 416 mb (+284285kb) [00:00:02]
+// [GUI Memory]: 80 mb (+23878kb) [00:00:02]
+// [Engine Memory]: 419 mb (+3145kb) [00:00:02]
+// [Engine Memory]: 429 mb (+11046kb) [00:00:02]
+// [Engine Memory]: 436 mb (+7360kb) [00:00:03]
+// [Engine Memory]: 442 mb (+5705kb) [00:00:03]
+// [Engine Memory]: 442 mb (+204kb) [00:00:03]
+// [GUI Memory]: 85 mb (+4727kb) [00:00:03]
+// [Engine Memory]: 446 mb (+4452kb) [00:00:03]
+// Tcl Message: open_project {E:\Academics\3rd Sem\HDL\SPI_Protocol\SPI_Protocol\SPI_Protocol.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// TclEventType: STOP_PROGRESS_DIALOG
+dismissDialog("Opening project 'E:\\Academics\\3rd Sem\\HDL\\SPI_Protocol\\SPI_Protocol\\SPI_Protocol.xpr'"); // co:P (cg:JFrame)
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// [Engine Memory]: 495 mb (+51142kb) [00:00:05]
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// [Engine Memory]: 502 mb (+8007kb) [00:00:06]
+// HMemoryUtils.trashcanNow. Engine heap size: 502 MB. GUI used memory: 27 MB. Current time: 7/4/25 8:06:07 PM
+// Elapsed time: 17 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, spi_state_tb (spi_state.v)]", 1, true); // u:k (w:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, spi_state_tb (spi_state.v)]", 1, true, false, false, false, false, true); // u:k (w:JPanel, cg:JFrame) - Double Click - Node
+// [Engine Memory]: 505 mb (+2588kb) [00:00:22]
+maximizeView(PAResourceOtoP.PAViews_BASE_WORKSPACE, "BaseWorkspace"); // L:a (Workspace:JPanel, cg:JFrame)
+selectCodeEditor("spi_state.v", 211, 78); // aU:J (JPanel:JComponent, cg:JFrame)
+// [Engine Memory]: 512 mb (+7294kb) [00:00:30]
+// Elapsed time: 84 seconds
+selectCodeEditor("spi_state.v", 1, 1); // aU:J (JPanel:JComponent, cg:JFrame)
