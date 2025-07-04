@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Fri Jul 04 19:59:11 2025
+# Process ID: 19216
+# Log file: E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_ADC_Interfacing/ONBOARD_ADC_INTERFACING/vivado.log
+# Journal file: E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_ADC_Interfacing/ONBOARD_ADC_INTERFACING\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:\Academics\3rd Sem\HDL\SPI_Protocol\Onboard_ADC_Interfacing\ONBOARD_ADC_INTERFACING\ONBOARD_ADC_INTERFACING.xpr}
+INFO: [Project 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_ADC_Interfacing/ONBOARD_ADC_INTERFACING'
+INFO: [Project 1-313] Project file moved from 'E:/Academics/3rd Sem/HDL/SPI_Protocol/INTERFACING_ONBOARD_ADC_WITH_SPARTAN3E/ONBOARD_ADC_INTERFACING' since last save.
+Scanning sources...
+Finished scanning sources
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jul 04 19:59:33 2025...

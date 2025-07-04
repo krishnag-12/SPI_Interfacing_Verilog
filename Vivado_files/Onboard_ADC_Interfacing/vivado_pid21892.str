@@ -1,0 +1,74 @@
+/*
+
+Vivado v2014.2 (64-bit)
+SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+Process ID: 21892
+
+Current time: 	7/4/25 8:06:58 PM
+Time zone: 	India Standard Time (Asia/Calcutta)
+
+OS: Windows 8
+Version: 6.2
+Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+
+Java version: 	1.7.0_40 64-bit
+Java home: 	C:/Xilinx/Vivado/2014.2/tps/win64/jre
+
+User name: 	gkris
+User directory: E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_ADC_Interfacing/ONBOARD_ADC_INTERFACING
+User country: 	IN
+User language: 	en
+User locale: 	en_IN
+
+Gui allocated memory:	122 mb
+Gui max memory:		3,066 mb
+Engine allocated memory: 480 mb
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: START_PROGRESS_DIALOG
+// co:P (cg:JFrame):  Opening project 'E:\Academics\3rd Sem\HDL\SPI_Protocol\Onboard_ADC_Interfacing\ONBOARD_ADC_INTERFACING\ONBOARD_ADC_INTERFACING.xpr' : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 59 mb (+59168kb) [00:00:02]
+// [Engine Memory]: 399 mb (+266574kb) [00:00:02]
+// [GUI Memory]: 82 mb (+23864kb) [00:00:02]
+// [Engine Memory]: 402 mb (+3047kb) [00:00:02]
+// [Engine Memory]: 413 mb (+11456kb) [00:00:02]
+// [Engine Memory]: 422 mb (+10383kb) [00:00:03]
+// [Engine Memory]: 424 mb (+1998kb) [00:00:03]
+// [GUI Memory]: 82 mb (+927kb) [00:00:03]
+// [GUI Memory]: 87 mb (+4989kb) [00:00:03]
+// [Engine Memory]: 425 mb (+1064kb) [00:00:03]
+// [Engine Memory]: 427 mb (+1605kb) [00:00:03]
+// [Engine Memory]: 431 mb (+3928kb) [00:00:03]
+// Tcl Message: open_project {E:\Academics\3rd Sem\HDL\SPI_Protocol\Onboard_ADC_Interfacing\ONBOARD_ADC_INTERFACING\ONBOARD_ADC_INTERFACING.xpr} 
+// Tcl Message: INFO: [Project 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_ADC_Interfacing/ONBOARD_ADC_INTERFACING' INFO: [Project 1-313] Project file moved from 'E:/Academics/3rd Sem/HDL/SPI_Protocol/INTERFACING_ONBOARD_ADC_WITH_SPARTAN3E/ONBOARD_ADC_INTERFACING' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// TclEventType: STOP_PROGRESS_DIALOG
+dismissDialog("Opening project 'E:\\Academics\\3rd Sem\\HDL\\SPI_Protocol\\Onboard_ADC_Interfacing\\ONBOARD_ADC_INTERFACING\\ONBOARD_ADC_INTERFACING.xpr'"); // co:P (cg:JFrame)
+// [Engine Memory]: 480 mb (+51855kb) [00:00:05]
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// [Engine Memory]: 487 mb (+7184kb) [00:00:06]
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, adc (adc.v)]", 1, false); // u:k (w:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, adc (adc.v)]", 1, false, false, false, false, false, true); // u:k (w:JPanel, cg:JFrame) - Double Click
+// HMemoryUtils.trashcanNow. Engine heap size: 487 MB. GUI used memory: 28 MB. Current time: 7/4/25 8:07:00 PM
+maximizeView(PAResourceOtoP.PAViews_BASE_WORKSPACE, "BaseWorkspace"); // L:a (Workspace:JPanel, cg:JFrame)
+// [Engine Memory]: 504 mb (+18378kb) [00:00:14]
+// Elapsed time: 92 seconds
+selectCodeEditor("adc.v", 0, 13); // aU:J (JPanel:JComponent, cg:JFrame)
+// HMemoryUtils.trashcanNow. Engine heap size: 508 MB. GUI used memory: 28 MB. Current time: 7/4/25 8:08:35 PM
+// [Engine Memory]: 508 mb (+3264kb) [00:01:48]
