@@ -1,48 +1,43 @@
 # Vivado Files
 
-This folder contains all the project-related files and configurations used in **Xilinx Vivado** for implementing and testing the **SPI Protocol & Interfacing using Verilog** project.
+This folder contains all the files generated and used by **Xilinx Vivado** for implementing the project **"SPI Protocol and Interfacing using Verilog"**.
+
+These files are required to recreate, simulate, synthesize, and implement the design on FPGA hardware.
 
 ---
 
 ## 📁 Contents
 
-The folder may include:
-
-- `*.xpr` – Vivado project file
-- `*.xdc` – Constraints file (pin mappings for Spartan-3E or other FPGA boards)
-- `sources_1/` – HDL source files (e.g., `spi_state.v`, `adc.v`, `dac.v`)
-- `sim_1/` – Simulation sources and testbenches (e.g., `spi_state_tb.v`)
-- `ip/` – Any IP cores used (if applicable)
-- `bitstream/` – Bitstream files for FPGA programming (`*.bit`)
-- `runs/` – Implementation and synthesis runs
+### Main Files:
+- `*.xpr` – Vivado project file (entry point to open your project)
+- `*.jou` – Journal file (Vivado's internal log of executed commands)
+- `*.log` – Project log file containing tool outputs and messages
+- `*.str` – Strategy file containing synthesis/implementation strategies
 
 ---
 
 ## 🛠 How to Use
 
-1. Open Vivado and click **File → Open Project**.
-2. Navigate to this folder and open the `.xpr` file.
-3. Use **Simulation** or **Program and Debug** to test or deploy the design.
+1. Open **Xilinx Vivado**.
+2. Select **File → Open Project** and choose the `.xpr` file from this folder.
+3. Run simulation, synthesis, and implementation as required.
+4. Generate bitstream and program your FPGA board.
 
 ---
 
-## ⚙️ Board Info
+## ⚙️ Target Platform
 
-- **FPGA Board**: Spartan-3E (or compatible)
-- **Clock**: 50 MHz
-- **Interfaces Used**:
-  - SPI
-  - ADC
-  - DAC
-  - Amplifier
+- **FPGA Board**: Spartan-3E or compatible
+- **Design Modules**:
+  - SPI State Machine
+  - ADC Interfacing
+  - DAC Communication
 
 ---
 
 ## 📌 Notes
 
-- Ensure your XDC file correctly maps the I/O pins based on your development board.
-- This folder is mainly for FPGA implementation and not just simulation.
-- All Verilog files used here are also available in the main source directory.
+- Do **not delete or rename** the `.jou`, `.log`, or `.str` files—they help Vivado resume or regenerate your sessions.
+- Pin constraints must be updated in the `.xdc` file according to your specific FPGA board.
 
 ---
-
