@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Fri Jul 04 20:27:23 2025
+# Process ID: 11868
+# Log file: E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_DAC_Interfacing/Onboard_DSC_Interfacing/vivado.log
+# Journal file: E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_DAC_Interfacing/Onboard_DSC_Interfacing\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:\Academics\3rd Sem\HDL\SPI_Protocol\Onboard_DAC_Interfacing\Onboard_DSC_Interfacing\Onboard_DSC_Interfacing.xpr}

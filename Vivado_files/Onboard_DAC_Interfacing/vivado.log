@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Fri Jul 04 20:27:23 2025
+# Process ID: 11868
+# Log file: E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_DAC_Interfacing/Onboard_DSC_Interfacing/vivado.log
+# Journal file: E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_DAC_Interfacing/Onboard_DSC_Interfacing\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:\Academics\3rd Sem\HDL\SPI_Protocol\Onboard_DAC_Interfacing\Onboard_DSC_Interfacing\Onboard_DSC_Interfacing.xpr}
+INFO: [Project 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'E:/Academics/3rd Sem/HDL/SPI_Protocol/Onboard_DAC_Interfacing/Onboard_DSC_Interfacing'
+Scanning sources...
+Finished scanning sources
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jul 04 20:27:31 2025...
